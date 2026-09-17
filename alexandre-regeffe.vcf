@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Regeffe;Alexandre;;;
+FN:Alexandre Regeffe
+ORG:RSHIFT
+TITLE:Immersive Director
+EMAIL;TYPE=INTERNET,WORK:alex@rshift.net
+TEL;TYPE=CELL:+33617761939
+URL:https://www.rshift.net/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/alexandreregeffe/
+END:VCARD
